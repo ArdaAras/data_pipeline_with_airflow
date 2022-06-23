@@ -1,2 +1,3 @@
-# data_pipeline_with_airflow
-Data pipeline with Apache Airflow
+# About Project
+
+This project aims to create a pipeline using Apache Airflow.
